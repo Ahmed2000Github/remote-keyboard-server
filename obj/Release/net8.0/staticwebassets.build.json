@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7aUczjS7iBKUM6ZaU8QS1bl2F0e/Z0uHbWmo2g9Lczg=",
+  "Source": "remote-keyboard-server",
+  "BasePath": "_content/remote-keyboard-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

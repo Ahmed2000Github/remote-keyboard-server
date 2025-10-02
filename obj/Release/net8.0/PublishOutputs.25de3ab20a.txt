@@ -1,0 +1,12 @@
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\remote-keyboard-server.exe
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\appsettings.json
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\remote-keyboard-server.dll
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\remote-keyboard-server.deps.json
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\remote-keyboard-server.runtimeconfig.json
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\remote-keyboard-server.pdb
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\nodeJS\remote-keyboard-server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
